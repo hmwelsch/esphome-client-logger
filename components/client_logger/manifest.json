@@ -1,0 +1,9 @@
+{
+  "name": "Client Logger",
+  "files": [
+    "client_logger.py",
+    "client_logger.h",
+    "__init__.py"
+  ],
+  "requirements": []
+}
